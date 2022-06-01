@@ -1,0 +1,1 @@
+this.promedio = this.getProm();
